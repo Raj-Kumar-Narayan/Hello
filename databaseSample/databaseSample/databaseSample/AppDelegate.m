@@ -44,7 +44,7 @@
     [self checkAndCreateDatabase];
     [self.window makeKeyAndVisible];
     return YES;
-    [TestFlight takeOff:@"8cbd6bc75e21523383acb1cc8c7f5770_MTE1OTYzNjIwMTMtMDctMTAgMDg6NTk6NDYuMjA3MTMz"];
+    [TestFlight takeOff:@"e2441ca5-dd4f-49d7-a5ce-78bd60448645"];
 }
 -(void) checkAndCreateDatabase
 {
